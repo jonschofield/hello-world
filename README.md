@@ -1,4 +1,4 @@
 # hello-world
-Hello World demo via Maven & Gradle
+This is Hello World demo in Java built with Maven
 
-Readme update test via Github
+Adding note to Readme via Github
